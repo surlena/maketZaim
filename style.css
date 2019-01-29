@@ -1,0 +1,49 @@
+.header {
+    justify-content: space-between;
+	flex-direction: row;
+    display: flex;
+    outline: 2px solid aqua;
+    padding-top: 16px; 
+
+}
+
+.header--logo {
+    width: 268px;
+    outline: 2px solid aqua;
+   
+}
+
+.header--logo--img{
+    width: 160px;
+    height: 87px;
+
+}
+
+.header--contacts {
+    color: green;
+    outline: 2px solid aqua;
+
+
+}
+
+.header--contacts--phone{
+
+}
+
+
+
+.header--contacts--phone-red {
+    color: red;
+}
+
+
+.header--contacts--adress{
+    text-align:right;
+}
+
+.header--contacts--btn {
+   background-color: green;
+   margin-right: 0;
+
+
+}
